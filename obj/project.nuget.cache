@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvlifyZX3P8xrkS6/SKmZ4tH6L+yFd5x//8MmxQfuU8pAQAUDmq3MKcgeh+lBwKDlKtmf3bGhXBZYeRJVglkhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacachia\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\dacachia\\.nuget\\packages\\microsoft.build.runtime\\16.10.0\\microsoft.build.runtime.16.10.0.nupkg.sha512",
+    "C:\\Users\\dacachia\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

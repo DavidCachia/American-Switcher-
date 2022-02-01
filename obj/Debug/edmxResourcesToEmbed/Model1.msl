@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RouletteTableModelStoreContainer" CdmEntityContainer="RouletteTableEntities1">
+    <EntitySetMapping Name="colornumbers">
+      <EntityTypeMapping TypeName="RouletteTableModel.colornumber">
+        <MappingFragment StoreEntitySet="colornumber">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="color" ColumnName="color" />
+          <ScalarProperty Name="number" ColumnName="number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Errorlogtables">
+      <EntityTypeMapping TypeName="RouletteTableModel.Errorlogtable">
+        <MappingFragment StoreEntitySet="Errorlogtable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Datetime" ColumnName="Datetime" />
+          <ScalarProperty Name="Errortext" ColumnName="Errortext" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WiningNumbersTbls">
+      <EntityTypeMapping TypeName="RouletteTableModel.WiningNumbersTbl">
+        <MappingFragment StoreEntitySet="WiningNumbersTbl">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="WinningNumbers" ColumnName="WinningNumbers" />
+          <ScalarProperty Name="SpinDate" ColumnName="SpinDate" />
+          <ScalarProperty Name="Addbit" ColumnName="Addbit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RouletteTableModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="colornumber">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="color" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="number" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Errorlogtable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Datetime" Type="DateTime" Precision="3" />
+    <Property Name="Errortext" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="WiningNumbersTbl">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WinningNumbers" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SpinDate" Type="DateTime" Precision="3" />
+    <Property Name="Addbit" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="RouletteTableEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="colornumbers" EntityType="Self.colornumber" />
+    <EntitySet Name="Errorlogtables" EntityType="Self.Errorlogtable" />
+    <EntitySet Name="WiningNumbersTbls" EntityType="Self.WiningNumbersTbl" />
+  </EntityContainer>
+</Schema>

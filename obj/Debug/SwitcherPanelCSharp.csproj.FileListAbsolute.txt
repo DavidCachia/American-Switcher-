@@ -1,0 +1,217 @@
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\Interop.BMDSwitcherAPI.dll
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.ResolveComReference.cache
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\bin\Debug\Interop.BMDSwitcherAPI.dll
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Program Files (x86)\Blackmagic Design\Blackmagic ATEM Switchers\Developer SDK\Windows\Samples\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojResolveAssemblyReference.cache
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\Interop.BMDSwitcherAPI.dll
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.ResolveComReference.cache
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\SwitcherPanelCSharp\bin\Debug\Interop.BMDSwitcherAPI.dll
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojResolveAssemblyReference.cache
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+T:\IT\Project Code\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\Interop.BMDSwitcherAPI.dll
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\bin\Debug\Interop.BMDSwitcherAPI.dll
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\Administrator\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.Cache
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.Cache
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\Updated Swticher ROulette 360\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojAssemblyReference.cache
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\Switcher Oracle Blaze\Updated Swticher oracle blaze\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.Cache
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\portomaso vip roulette\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojResolveAssemblyReference.cache
+C:\Users\johann\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\johann\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\johann\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\johann\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\johann\Desktop\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csprojAssemblyReference.cache
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\johann\Desktop\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\bin\Debug\EntityFramework.dll
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.AssemblyReference.cache
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CopyComplete
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\EntityFramework.SqlServer.dll
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\bin\Debug\EntityFramework.dll
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.AssemblyReference.cache
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CopyComplete
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\EntityFramework.SqlServer.dll
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\EntityFramework.dll
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.AssemblyReference.cache
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CopyComplete
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\RDisplay -vishnu's version\new ip version\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\bin\Debug\EntityFramework.dll
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.AssemblyReference.cache
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CopyComplete
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\vpyeganathan\Desktop\switcherapp -thread\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\EntityFramework.SqlServer.dll
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\bin\Debug\EntityFramework.dll
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.AssemblyReference.cache
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+T:\IT\Project Code\American_Roulette\switcherapp\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.config
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.application
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.exe
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\SwitcherPanelCSharp.pdb
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\bin\Debug\EntityFramework.dll
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.AssemblyReference.cache
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.Properties.Resources.resources
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.SwitcherPanel.resources
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.GenerateResource.cache
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe.manifest
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.application
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.exe
+C:\Users\dacachia\Desktop\Documents And Projects\3.Switchers\1.American\SwitcherPanelCSharp\obj\Debug\SwitcherPanelCSharp.pdb

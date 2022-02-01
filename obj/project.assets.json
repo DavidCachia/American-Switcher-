@@ -1,0 +1,349 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Microsoft.Build.Runtime/16.10.0": {
+        "type": "package"
+      },
+      "System.Net.Http/4.3.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Microsoft.Build.Runtime/16.10.0": {
+        "type": "package"
+      },
+      "System.Net.Http/4.3.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x64": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Microsoft.Build.Runtime/16.10.0": {
+        "type": "package"
+      },
+      "System.Net.Http/4.3.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x86": {
+      "EntityFramework/6.2.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Microsoft.Build.Runtime/16.10.0": {
+        "type": "package"
+      },
+      "System.Net.Http/4.3.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework/6.2.0": {
+      "sha512": "ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
+      "type": "package",
+      "path": "entityframework/6.2.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/net40/App.config.transform",
+        "content/net40/Web.config.transform",
+        "entityframework.6.2.0.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.SqlServer.dll",
+        "lib/net40/EntityFramework.SqlServer.xml",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.SqlServer.dll",
+        "lib/net45/EntityFramework.SqlServer.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "tools/EntityFramework.PowerShell.Utility.dll",
+        "tools/EntityFramework.PowerShell.dll",
+        "tools/EntityFramework.psd1",
+        "tools/EntityFramework.psm1",
+        "tools/about_EntityFramework.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/migrate.exe"
+      ]
+    },
+    "Microsoft.Build.Runtime/16.10.0": {
+      "sha512": "BOlelomBClnrpHQ7n2vOz1PgchC9S/9+ShcO90aPEk55y9ifOPLi8RLXtVADjw2nVAotouWrgvS9TUGxJwz/2w==",
+      "type": "package",
+      "path": "microsoft.build.runtime/16.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "MSBuild-NuGet-Icon.png",
+        "contentFiles/any/net472/Current/Microsoft.Common.props",
+        "contentFiles/any/net472/MSBuild.exe",
+        "contentFiles/any/net472/MSBuild.exe.config",
+        "contentFiles/any/net472/Microsoft.Build.Framework.tlb",
+        "contentFiles/any/net472/Microsoft.CSharp.CrossTargeting.targets",
+        "contentFiles/any/net472/Microsoft.CSharp.CurrentVersion.targets",
+        "contentFiles/any/net472/Microsoft.CSharp.targets",
+        "contentFiles/any/net472/Microsoft.Common.CrossTargeting.targets",
+        "contentFiles/any/net472/Microsoft.Common.CurrentVersion.targets",
+        "contentFiles/any/net472/Microsoft.Common.overridetasks",
+        "contentFiles/any/net472/Microsoft.Common.targets",
+        "contentFiles/any/net472/Microsoft.Common.tasks",
+        "contentFiles/any/net472/Microsoft.Data.Entity.targets",
+        "contentFiles/any/net472/Microsoft.Managed.After.targets",
+        "contentFiles/any/net472/Microsoft.Managed.Before.targets",
+        "contentFiles/any/net472/Microsoft.Managed.targets",
+        "contentFiles/any/net472/Microsoft.NET.props",
+        "contentFiles/any/net472/Microsoft.NETFramework.CurrentVersion.props",
+        "contentFiles/any/net472/Microsoft.NETFramework.CurrentVersion.targets",
+        "contentFiles/any/net472/Microsoft.NETFramework.props",
+        "contentFiles/any/net472/Microsoft.NETFramework.targets",
+        "contentFiles/any/net472/Microsoft.ServiceModel.targets",
+        "contentFiles/any/net472/Microsoft.VisualBasic.CrossTargeting.targets",
+        "contentFiles/any/net472/Microsoft.VisualBasic.CurrentVersion.targets",
+        "contentFiles/any/net472/Microsoft.VisualBasic.targets",
+        "contentFiles/any/net472/Microsoft.VisualStudioVersion.v11.Common.props",
+        "contentFiles/any/net472/Microsoft.VisualStudioVersion.v12.Common.props",
+        "contentFiles/any/net472/Microsoft.VisualStudioVersion.v14.Common.props",
+        "contentFiles/any/net472/Microsoft.WinFx.targets",
+        "contentFiles/any/net472/Microsoft.WorkflowBuildExtensions.targets",
+        "contentFiles/any/net472/Microsoft.Xaml.targets",
+        "contentFiles/any/net472/SdkResolvers/Microsoft.Build.NuGetSdkResolver/Microsoft.Build.NuGetSdkResolver.xml",
+        "contentFiles/any/net472/Workflow.Targets",
+        "contentFiles/any/net472/Workflow.VisualBasic.Targets",
+        "contentFiles/any/net472/ref/MSBuild.exe",
+        "contentFiles/any/net472/ref/mscorlib.dll",
+        "contentFiles/any/net472/ref/netstandard.dll",
+        "contentFiles/any/net5.0/Current/Microsoft.Common.props",
+        "contentFiles/any/net5.0/MSBuild.dll",
+        "contentFiles/any/net5.0/MSBuild.runtimeconfig.json",
+        "contentFiles/any/net5.0/Microsoft.CSharp.CrossTargeting.targets",
+        "contentFiles/any/net5.0/Microsoft.CSharp.CurrentVersion.targets",
+        "contentFiles/any/net5.0/Microsoft.CSharp.targets",
+        "contentFiles/any/net5.0/Microsoft.Common.CrossTargeting.targets",
+        "contentFiles/any/net5.0/Microsoft.Common.CurrentVersion.targets",
+        "contentFiles/any/net5.0/Microsoft.Common.overridetasks",
+        "contentFiles/any/net5.0/Microsoft.Common.targets",
+        "contentFiles/any/net5.0/Microsoft.Common.tasks",
+        "contentFiles/any/net5.0/Microsoft.Managed.After.targets",
+        "contentFiles/any/net5.0/Microsoft.Managed.Before.targets",
+        "contentFiles/any/net5.0/Microsoft.Managed.targets",
+        "contentFiles/any/net5.0/Microsoft.NET.props",
+        "contentFiles/any/net5.0/Microsoft.NETFramework.CurrentVersion.props",
+        "contentFiles/any/net5.0/Microsoft.NETFramework.CurrentVersion.targets",
+        "contentFiles/any/net5.0/Microsoft.NETFramework.props",
+        "contentFiles/any/net5.0/Microsoft.NETFramework.targets",
+        "contentFiles/any/net5.0/Microsoft.VisualBasic.CrossTargeting.targets",
+        "contentFiles/any/net5.0/Microsoft.VisualBasic.CurrentVersion.targets",
+        "contentFiles/any/net5.0/Microsoft.VisualBasic.targets",
+        "contentFiles/any/net5.0/Microsoft.VisualStudioVersion.v11.Common.props",
+        "contentFiles/any/net5.0/Microsoft.VisualStudioVersion.v12.Common.props",
+        "contentFiles/any/net5.0/Microsoft.VisualStudioVersion.v14.Common.props",
+        "contentFiles/any/net5.0/SdkResolvers/Microsoft.Build.NuGetSdkResolver/Microsoft.Build.NuGetSdkResolver.xml",
+        "contentFiles/any/net5.0/ref/MSBuild.dll",
+        "contentFiles/any/net5.0/ref/mscorlib.dll",
+        "contentFiles/any/net5.0/ref/netstandard.dll",
+        "microsoft.build.runtime.16.10.0.nupkg.sha512",
+        "microsoft.build.runtime.nuspec",
+        "notices/THIRDPARTYNOTICES.txt"
+      ]
+    },
+    "System.Net.Http/4.3.4": {
+      "sha512": "aOa2d51SEbmM+H+Csw7yJOuNZoHkrP2XnAurye5HWYgGVVU54YZDvsLUYRv6h18X3sPnjNCANmN7ZhIPiqMcjA==",
+      "type": "package",
+      "path": "system.net.http/4.3.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/Xamarinmac20/_._",
+        "lib/monoandroid10/_._",
+        "lib/monotouch10/_._",
+        "lib/net45/_._",
+        "lib/net46/System.Net.Http.dll",
+        "lib/portable-net45+win8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/Xamarinmac20/_._",
+        "ref/monoandroid10/_._",
+        "ref/monotouch10/_._",
+        "ref/net45/_._",
+        "ref/net46/System.Net.Http.dll",
+        "ref/netcore50/System.Net.Http.dll",
+        "ref/netstandard1.1/System.Net.Http.dll",
+        "ref/netstandard1.3/System.Net.Http.dll",
+        "ref/portable-net45+win8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/unix/lib/netstandard1.6/System.Net.Http.dll",
+        "runtimes/win/lib/net46/System.Net.Http.dll",
+        "runtimes/win/lib/netcore50/System.Net.Http.dll",
+        "runtimes/win/lib/netstandard1.3/System.Net.Http.dll",
+        "system.net.http.4.3.4.nupkg.sha512",
+        "system.net.http.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "EntityFramework >= 6.2.0",
+      "Microsoft.Build.Runtime >= 16.10.0",
+      "System.Net.Http >= 4.3.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dacachia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj",
+      "projectName": "SwitcherPanelCSharp",
+      "projectPath": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj",
+      "packagesPath": "C:\\Users\\dacachia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\dacachia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "dependencies": {
+          "EntityFramework": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          },
+          "Microsoft.Build.Runtime": {
+            "target": "Package",
+            "version": "[16.10.0, )"
+          },
+          "System.Net.Http": {
+            "target": "Package",
+            "version": "[4.3.4, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

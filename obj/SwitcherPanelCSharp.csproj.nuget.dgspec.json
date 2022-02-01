@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj",
+        "projectName": "SwitcherPanelCSharp",
+        "projectPath": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\SwitcherPanelCSharp.csproj",
+        "packagesPath": "C:\\Users\\dacachia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dacachia\\Desktop\\Documents And Projects\\3.Switchers\\1.American\\SwitcherPanelCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\dacachia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.Build.Runtime": {
+              "target": "Package",
+              "version": "[16.10.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

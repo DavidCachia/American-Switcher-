@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="RouletteTableModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="colornumber">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="color" Type="nvarchar" MaxLength="50" />
+          <Property Name="number" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Errorlogtable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Datetime" Type="datetime" />
+          <Property Name="Errortext" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="WiningNumbersTbl">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="WinningNumbers" Type="nvarchar" MaxLength="50" />
+          <Property Name="SpinDate" Type="datetime" />
+          <Property Name="Addbit" Type="int" />
+        </EntityType>
+        <EntityContainer Name="RouletteTableModelStoreContainer">
+          <EntitySet Name="colornumber" EntityType="Self.colornumber" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Errorlogtable" EntityType="Self.Errorlogtable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="WiningNumbersTbl" EntityType="Self.WiningNumbersTbl" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="RouletteTableModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="colornumber">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="color" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="number" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Errorlogtable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Datetime" Type="DateTime" Precision="3" />
+          <Property Name="Errortext" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="WiningNumbersTbl">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="WinningNumbers" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SpinDate" Type="DateTime" Precision="3" />
+          <Property Name="Addbit" Type="Int32" />
+        </EntityType>
+        <EntityContainer Name="RouletteTableEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="colornumbers" EntityType="Self.colornumber" />
+          <EntitySet Name="Errorlogtables" EntityType="Self.Errorlogtable" />
+          <EntitySet Name="WiningNumbersTbls" EntityType="Self.WiningNumbersTbl" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="RouletteTableModelStoreContainer" CdmEntityContainer="RouletteTableEntities1">
+          <EntitySetMapping Name="colornumbers">
+            <EntityTypeMapping TypeName="RouletteTableModel.colornumber">
+              <MappingFragment StoreEntitySet="colornumber">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="color" ColumnName="color" />
+                <ScalarProperty Name="number" ColumnName="number" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Errorlogtables">
+            <EntityTypeMapping TypeName="RouletteTableModel.Errorlogtable">
+              <MappingFragment StoreEntitySet="Errorlogtable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Datetime" ColumnName="Datetime" />
+                <ScalarProperty Name="Errortext" ColumnName="Errortext" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WiningNumbersTbls">
+            <EntityTypeMapping TypeName="RouletteTableModel.WiningNumbersTbl">
+              <MappingFragment StoreEntitySet="WiningNumbersTbl">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="WinningNumbers" ColumnName="WinningNumbers" />
+                <ScalarProperty Name="SpinDate" ColumnName="SpinDate" />
+                <ScalarProperty Name="Addbit" ColumnName="Addbit" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
